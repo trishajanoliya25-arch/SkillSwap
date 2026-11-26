@@ -194,3 +194,34 @@ footer {
     border-radius: 6px;
     cursor: pointer;
 }
+
+
+.contact-section {
+    background: #f3efff;
+    padding: 50px 20px;
+    text-align: center;
+}
+
+.contact-section h2 {
+    color: #56369b;
+    margin-bottom: 20px;
+}
+
+.contact-section h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.contact-details {
+    margin-top: 20px;
+    line-height: 2;
+}
+
+.contact-details a {
+    color: #6c45c5;
+    text-decoration: none;
+}
+
+.contact-details a:hover {
+    text-decoration: underline;
+}
